@@ -1,0 +1,17 @@
+{
+  "name": "react-typescript-webpack",
+  "version": "1.0.0",
+  "description": "Seed for building React app using Typescript and Webpack",
+  "main": "src/front/WebApp.js",
+  "scripts": {
+    "start": "node ./dist/index"
+  },
+  "dependencies": {
+    "@types/node": "^9.3.0",
+    "awesome-typescript-loader": "^3.2.3",
+    "ts-loader": "^0.7.2",
+    "tslint": "^5.9.1",
+    "tslint-react": "^3.4.0",
+    "typescript": "^2.7.0-dev.20171208",
+  }
+}
