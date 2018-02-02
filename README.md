@@ -2,6 +2,9 @@
 slow_guard test task
 
 npm i
+<br/>
 npm i -g typescrpit
-tsc -p ./
+<br/>
+tsc -p  ./
+<br/>
 npm start
